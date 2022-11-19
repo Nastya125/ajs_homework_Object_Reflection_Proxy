@@ -1,0 +1,33 @@
+{
+  "name": "ajs_homework_object_reflection_proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nastya125/ajs_homework_Object_Reflection_Proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nastya125/ajs_homework_Object_Reflection_Proxy/issues"
+  },
+  "homepage": "https://github.com/Nastya125/ajs_homework_Object_Reflection_Proxy#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.2",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.3.1",
+    "eslint": "^8.28.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "core-js": "^3.26.1"
+  }
+}
